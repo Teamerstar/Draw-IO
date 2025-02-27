@@ -4,17 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5B7_Lz66lDhokp3WaKcq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vIvWc48kCdje5t-_GIte-1" target="5B7_Lz66lDhokp3WaKcq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vIvWc48kCdje5t-_GIte-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.user;" parent="1" vertex="1">
           <mxGeometry x="50" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5B7_Lz66lDhokp3WaKcq-2" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;textOpacity=0;align=right;labelPosition=left;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vIvWc48kCdje5t-_GIte-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
           <mxGeometry x="260" y="140" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5B7_Lz66lDhokp3WaKcq-1" value="H5移动浏览器" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="390" y="140" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5B7_Lz66lDhokp3WaKcq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;textOpacity=10;" vertex="1" parent="1">
-          <mxGeometry x="220" y="100" width="310" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
