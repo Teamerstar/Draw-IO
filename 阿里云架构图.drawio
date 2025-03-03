@@ -71,6 +71,9 @@
         <mxCell id="dZ_bL4S3txBGEopiX9ml-1" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="87.5" y="110" width="590" height="660" as="geometry" />
         </mxCell>
+        <mxCell id="dZ_bL4S3txBGEopiX9ml-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qCLgNJyodU_B0uR2z7kn-1" target="dZ_bL4S3txBGEopiX9ml-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qCLgNJyodU_B0uR2z7kn-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="351" y="10" width="63" height="63" as="geometry" />
         </mxCell>
@@ -83,8 +86,14 @@
         <mxCell id="dZ_bL4S3txBGEopiX9ml-5" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="240" height="390" as="geometry" />
         </mxCell>
+        <mxCell id="dZ_bL4S3txBGEopiX9ml-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZ_bL4S3txBGEopiX9ml-7" target="dZ_bL4S3txBGEopiX9ml-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dZ_bL4S3txBGEopiX9ml-7" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.vswitch;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="52.5" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_bL4S3txBGEopiX9ml-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZ_bL4S3txBGEopiX9ml-6" target="dZ_bL4S3txBGEopiX9ml-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dZ_bL4S3txBGEopiX9ml-6" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.vswitch;" vertex="1" parent="1">
           <mxGeometry x="473.75" y="310" width="52.5" height="37.5" as="geometry" />
@@ -92,14 +101,42 @@
         <mxCell id="dZ_bL4S3txBGEopiX9ml-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ecs;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="420" width="72" height="67.5" as="geometry" />
         </mxCell>
+        <mxCell id="dZ_bL4S3txBGEopiX9ml-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.832;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dZ_bL4S3txBGEopiX9ml-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="488.75" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dZ_bL4S3txBGEopiX9ml-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ecs;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="464" y="420" width="72" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="dZ_bL4S3txBGEopiX9ml-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
-          <mxGeometry x="190" y="560" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="155.5" y="580" width="54.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dZ_bL4S3txBGEopiX9ml-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
-          <mxGeometry x="488.75" y="570" width="37.5" height="50" as="geometry" />
+        <mxCell id="dZ_bL4S3txBGEopiX9ml-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.579;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dZ_bL4S3txBGEopiX9ml-3" target="dZ_bL4S3txBGEopiX9ml-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_bL4S3txBGEopiX9ml-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZ_bL4S3txBGEopiX9ml-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_bL4S3txBGEopiX9ml-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dZ_bL4S3txBGEopiX9ml-8" target="dZ_bL4S3txBGEopiX9ml-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="226" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_bL4S3txBGEopiX9ml-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dZ_bL4S3txBGEopiX9ml-9" target="dZ_bL4S3txBGEopiX9ml-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="228" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="520" />
+              <mxPoint x="228" y="520" />
+              <mxPoint x="228" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_bL4S3txBGEopiX9ml-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+          <mxGeometry x="490" y="570" width="54.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
